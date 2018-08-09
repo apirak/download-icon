@@ -70,5 +70,5 @@ def search_list(apps)
   end
 end
 
-apps = read_csv("app_list_no_id.csv")
+apps = read_csv("app-id-finder-list.csv")
 search_list(apps)

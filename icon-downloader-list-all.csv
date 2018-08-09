@@ -3,7 +3,6 @@ udacity, 819700933
 facebook, 284882215
 messenger, 454638411, us, facebook messenger
 instagram, 389801252
-layout, 967351793, instagram layout
 hyperlapse, 740146917
 wongnai, 403745899
 7-Eleven, 514262377, th, 7 eleven
@@ -17,13 +16,9 @@ MyMo-By-GSB-Mobile-Banking, 987047466, th, mymo
 Bualuang-mBanking, 660238716, th, bualuang bank
 GSB-Pay, 1202182800
 Thanachart-Connect, 1097485544, th, thanachart
-KMA-Krungsri-Mobile App, 571873195, th, krungsri bank
 Krungsri-Ignite, 1148590936, th, krungsri ignite
-Krungsri-Quick Pay, 563457247, th, krungsri quick pay
-Krungsri-Biz Mobile, 1057429809, th, krungsri bix mobile
 paotang, 1324902182, th, ktb paotang
 paotung, 1280811028, th, ktb paotung
-KTB netbank, 436753378, th, ktb bank
 KBank-Card, 423285101, th, kbank
 K-PowerPay-mPOS, 567632590, th, kbank powerpay
 K-Cyber-Trade-for-iPhone, 775635397, th, kbank kcyber trade
@@ -34,7 +29,6 @@ Line, 443904275, th, line
 LINE-MAN-Taxi-Food-Postal, 1076238296, th, line man
 dtac, 366758142, th
 dtac-call, 1210578759, th, dtac call
-LINE-MOBILE, 443904275, th, linemobile
 Hello-dtac, 1269995266, th, dtac hello
 Smart-Farmer, 418833988, us
 my-AIS, 399758084, th, ais
@@ -76,18 +70,16 @@ FlowAccount, 993095869, us
 Fixzy-Easy-Home-Maintenance, 947223490, us, fixzy
 SKOOTAR, 1040028979, us
 Indie-Dish, 1141795069, us, indie dish
-Audrey-Cafe-&-Bistro, 1248259866, us
 myMK, 1341554524, us
 Kinraidee, 438039199, th
 DJPoom, 949826362, us
 Agoda-Great-Prices-on-Hotels, 440676901, us, agoda
-Traveloka-Book-Flight-&-Hotel, 898244857, us, traveloka
 AirAsia, 565050268, th, air asia
 Nok-Air, 353485791, th
 Lion-Air, 892749109, th
 AirAsia, 565050268, th
 THAI-Mobile, 931355786, us
-Cheap-flights-&-airline-ticket, 427916203, us
+Cheap-flights-airline-ticket, 427916203, us
 Penguint-airfare-promotion, 1101588342, us
 JIB-Online, 1253895571, us
 Paste-by-FiftyThree, 1259981327, us
@@ -96,7 +88,6 @@ OfficeMate, 984799287, us, office mate
 Central-Department-Store, 419292319, us
 LnwShop, 667268963, us
 AliExpress-Shopping-App, 436672029, us, aliexpress
-HeartWatch-Heart-&-Activity, 1062745479, us
 BeeTalk---Video-the-Moments, 615267996, us
 WhatsApp-Messenger, 310633997, us
 Paper-by-FiftyThree, 506003812, us
@@ -202,7 +193,6 @@ Bloom-Coloring-Book, 1205087916, us
 Lake-Artists’-Coloring-Books, 1183717726, us
 PicsArt-Color-Paint, 1183817887, us
 Prêt-à-Template, 839537579, us
-Tayasui-Sketches, 641900855, us
 Boomerang-from-Instagram, 1041596399, us, instagram boomerang
 Camcorder-Record-VHS-Home-Videos, 1036066107, us
 Enlight-Videoleap, 1255135442, us
@@ -236,7 +226,6 @@ BlaBlaCar-Trusted-Carpooling, 341329033, us
 Craftsy, 540872054, us
 MyFoody-Be-the-One-to-Save, 1127390306, us
 OLIO-The-Food-Sharing-Revolution, 1008237086, us
-Peerby, 611218631, us
 Public-Transit-App-Moovit, 498477945, us
 ResQ-Club, 1069744707, us
 Scanbot-Scanner-Scan-Doc-PDF, 699498825, us
@@ -336,7 +325,6 @@ Pigment-Adult-Coloring-Book, 1062006344, us
 Procreate, 993420685, us
 Procreate-Pocket, 916366645, us
 Recolor-Coloring-Book, 1027352017, us
-Tayasui-Color, 641900855, us
 Tayasui-Sketches, 641900855, us
 Bring-Shopping-List, 580669177, us
 Hair-Color, 485420312, us
@@ -509,9 +497,7 @@ google-art-and-culture, 1050970557, us, google art
 google-authentication, 388497605, us, google authentication
 google-calendar, 909319292, us, google calendar
 google-chrome, 535886823, us, google chrome
-google-contact, 1096918571, us, google contact
 google-docs, 842842640, us, google docs
-google-docs-sheets, 842842640, us, google docs
 google-docs-slide, 675054186, us, google docs
 google-drive, 507874739, us, google drive
 google-fit, 971023427, us, google fit
@@ -525,7 +511,7 @@ google-keyboard, 523045896, us, google keyboard
 google-map, 585027354, us, google map
 google-now, 544007664, us, google now
 google-phone, 541829441, us, google phone
-google-photo, 904418768, us, google photo
+google-photo, 962194608, us, google photo
 google-playstore, 935174965, us, google playstore
 google-plus, 368305725, us, google plus
 google-search, 284815942, us, google search
@@ -551,12 +537,10 @@ instapaper, 288545208, us
 invision, 990700027, us
 itruemart, 667855719, th
 JOOX-Music, 914406371, th, joox
-TapKTC, 723657868, ktc
 korian-air, 369188136, us
 lalamove, 735701965, us
 lazada, 785385147, us
 lyft, 529379082, us
-macdonal, us, th
 mea, 651825361, th
 medium, 544007664, us
 mindcraft, 1397262424, us
@@ -565,7 +549,6 @@ pinterest, 429047995, us
 ookbee, 439211918, us
 ookbee-comic, 667829467, us, ookbee comic
 ookbee-joy, 1250405456, us, ookbee joy
-ookbee-tanyawan, us, th, ookbee tanyawan
 organizze, 703177890, us
 paktor, 654972611, us
 pantip, 371321217, us
@@ -574,7 +557,6 @@ pillow, 410606661, us
 pomelo, 839452750, us
 priceza, 496863481, us
 primetime, 1140549792, us
-rabbit, 443904275, th
 reddit, 1064216828, us
 runkeeper, 1205237896, us
 scb-up2me, 665157756, th, scb up2me
@@ -611,3 +593,18 @@ weibo, 527106466, us
 yahoo-mail, 577586159, us, yahoo mail
 youtube-gaming, 1009116743, us, youtube gaming
 zalora, 624639017, us
+Audrey-Cafe-Bistro, 1248259866, us
+KMA-Krungsri-Mobile-App, 571873195, th, krungsri bank
+Krungsri-Quick-Pay, 563457247, th, krungsri quick pay
+Krungsri-Biz-Mobile, 1057429809, th, krungsri bix mobile
+KTB-netbank, 436753378, th, ktb bank
+Traveloka-Book-Flight-Hotel, 898244857, us, traveloka
+Cheap-flights-airline-ticket, 427916203, us
+HeartWatch-Heart-Activity, 1062745479, us
+Peerby, 611218631, us
+tanwalai, 1087664350, th, ookbee tanwalai
+instragram-layout, 967351793, us, instagram layout
+TapKTC, 723657868, th, ktc
+LINE-MOBILE, 1210594482, th, linemobile
+rabbit-reward, 662012375, th, rabbit reward
+Tayasui-Color, 1106374233, us

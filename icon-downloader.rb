@@ -68,5 +68,5 @@ def download_list(apps)
   end
 end
 
-apps = read_csv("app_list.csv")
+apps = read_csv("icon-downloader-list.csv")
 download_list(apps)
