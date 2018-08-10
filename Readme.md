@@ -14,6 +14,8 @@ For download list of icon. You can add application you want to download in icon-
 
 Country code and tag is optional. If you don't have tag, the code will user filename as tag for you :-)
 
+    $ ruby icon-downloader.rb
+
 Note: Don't forget to change target location before run
 
 ## app-id-finder.rb
@@ -28,6 +30,8 @@ For search application ID that use in icon-downloader. Add application you want 
 
 Country code is optional
 
+    $ ruby app-id-finder.rb
+
 ## Require
 
 https://github.com/jdberry/tag
@@ -37,3 +41,11 @@ https://github.com/jdberry/tag
 ## Reference
 
 [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+
+## Recommend
+
+After collected all icon you should use
+
+* Gemini: to filter duplicate icon (semi-auto)
+* Hazel: for auto move icon to library location ex. folder that hierarchy by year/month/date
+* Pixave: for auto import all icon to photo library. You can add custom tag automatic
