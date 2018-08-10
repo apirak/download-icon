@@ -13,4 +13,5 @@ For search application ID that use in icon-downloader. Add application you want 
 ## Require
 
 https://github.com/jdberry/tag
-brew install tag
+
+     brew install tag
