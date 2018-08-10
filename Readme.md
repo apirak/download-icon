@@ -1,4 +1,4 @@
-# Icon downloader for iTume
+# Icon downloader for iTune
 
 ## icon-downloader.rb
 
