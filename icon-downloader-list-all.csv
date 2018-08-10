@@ -1,4 +1,4 @@
-name, id, tag
+name, id, country code, tag
 udacity, 819700933
 facebook, 284882215
 messenger, 454638411, us, facebook messenger
@@ -608,3 +608,8 @@ TapKTC, 723657868, th, ktc
 LINE-MOBILE, 1210594482, th, linemobile
 rabbit-reward, 662012375, th, rabbit reward
 Tayasui-Color, 1106374233, us
+authy, 494168017, th
+zones, 403693694, th
+guides, 306934924, th
+airMeasure, 1251282152, th
+namecheap, 482604032, th

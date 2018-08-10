@@ -28,7 +28,6 @@ def find_trackID(app_name, country)
   response = Net::HTTP.get_response(uri).body
   response_json = JSON.parse(response)
 
-
   sleep(4)
 
   if response_json["resultCount"] != 0
