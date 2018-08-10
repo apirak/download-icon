@@ -49,3 +49,8 @@ After collected all icon you should use
 * Gemini: to filter duplicate icon (semi-auto)
 * Hazel: for auto move icon to library location ex. folder that hierarchy by year/month/date
 * Pixave: for auto import all icon to photo library. You can add custom tag automatic
+
+## Todo
+
+* Read top application from this list https://itunes.apple.com/th/genre/ios-books/id6018?mt=8
+* Download advertizing screen too
