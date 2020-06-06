@@ -44,7 +44,7 @@ def add_tag(tag, path)
 end
 
 def download(artwork_url, path)
-  download = open(artwork_url)
+  download = URI.open(artwork_url)
   File.open(path, "w") do |f|
     IO.copy_stream(download, f)
   end
