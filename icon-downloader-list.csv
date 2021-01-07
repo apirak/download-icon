@@ -1,4 +1,10 @@
 name, id, country code, tag
+amongus, 1351168404, us
+mi-home, 957323480, th
+basecamp3, 1015603248, us
+thailife-card, 988656693, th
+thailife-Insurance, 1515648617, th
+thailife-group, 1526242449, th
 bualuang-mbanking, 660238716, th
 udacity, 819700936, us
 Facebook, 284882215
@@ -44,7 +50,7 @@ udacity, 819700933, us
 flipboard, 358801284, us
 feedly, 396069556, us, feedly
 twitter, 333903271, us
-stamp, 443904275, th
+stamp, 525997217, th
 zone, 993140360, th
 Police-i-lert-u, 950616229, th
 Grab-Ride-Hailing-App, 647268330, us, grab
@@ -80,7 +86,6 @@ Artisto-Video-and-Photo-Editor-with-Art-Filters, 1137893020, us
 Fabby-Photo-Video-Editor, 1147967413, us
 FaceApp-Neural-Face-Magic, 1180884341, us
 Facetune-2, 1149994032, us
-MSQRD-Live-Filters-Face-Swap-for-Video-Selfies, 1065249424, us
 Photo-Lab-Picture-Editor-art, 441457218, us
 Prisma-Photo-Editor-, 1122649984, us
 Sticky-AI, 1234178923, us
@@ -90,10 +95,6 @@ Crash-of-Cars, 1171311339, us
 Knight-IO, 1259287889, us
 paper-io, 1171814682, us
 slither-io, 1091944550, us
-线条大作战, 1129268979, us
-蛋蛋大作战, 1149825680, us
-Arena-Masters--Legend-Begins, 1347879870, us
-Art-of-War-Red-Tides, 1216114260, us
 Asphalt-Xtreme, 971233157, us
 Battle-Bay, 1046450453, us
 CATS-Crash-Arena-Turbo-Stars, 1208561922, us
@@ -106,16 +107,12 @@ Hearthstone, 1031792299, us
 Modern-Combat-Versus, 1121667177, us
 Mushroom-Wars-2, 1141358828, us
 PES-2018-PRO-EVOLUTION-SOCCER, 1117270703, us
-Planet-of-Heroes-Brawl-MOBA, 1112479661, th
-Race-Kings, 988762223, us
 SIEGE-TITAN-WARS, 1149474432, us
-Star-Wars-Force-Arena, 1088764761, us
 Stormbound, 1234446615, us
 Terminator-Genisys-Future-War, 1174804746, us
 The-Elder-Scrolls-Legends, 1084019358, us
 Titanfall-Assault, 1308823039, us
 Vainglory, 671464704, us
-War-Wings, 1050092160, us
 Bit-City, 914343148, us
 Bowmasters-Multiplayer-Game, 1118431695, us
 Build-Away-Idle-City-Game, 1356451697, us
@@ -133,7 +130,8 @@ booking, 647268330, th
 alipay, 333206289, us
 alto, 1263426717, us
 amazon-ptt, 1047593542, th, amazon ptt
-anantara, 1278606815, us
+anantara-hotels, 1455199656, us, anantara hotel
+anantara-ar-experience, 1474047633, us, anantara ar experience
 audible, 379693831, us
 auto-sleep-tracker, 878691772, us, auto sleep tracker
 ava, 1243594881, us
@@ -141,7 +139,7 @@ bamboohr, 587244049, us
 behance, 489667151, us
 bitly, 525106063, us
 booking, 367003839, us
-all-thai-taxi, 966440826, th, all thai taxi
+all-thai-taxi, 966440826, us, all thai taxi
 cal-any-do, 648287824, us, cal any-do
 caratlane, 990574630, us
 cdiscount, 1029896837, th
@@ -213,7 +211,6 @@ grabajob, 1361121619, us
 happyfresh, 957304056, us
 HiQ, 1203573940, us
 hopper, 904052407, us
-hotel-quickly, 587697731, us, hotel quickly
 ifttt, 660944635, us
 imprint, 285375876, us
 inoreader, 892355414, us
@@ -222,18 +219,18 @@ invision, 990700027, us
 itruemart, 667855719, th
 JOOX-Music, 914406371, th, joox
 korian-air, 369188136, us
-lalamove, 735701965, us
+lalamove, 735701965, th
 lazada, 785385147, us
 lyft, 529379082, us
 mea, 651825361, th
-medium, 544007664, us
+medium, 828256236, us
 mindcraft, 1397262424, us
-mumu, 443904275, th
+mumu, 1099303965, th
 pinterest, 429047995, us
-ookbee, 439211918, us
+ookbee, 667829467, th
 ookbee-comic, 667829467, us, ookbee comic
 ookbee-joy, 1250405456, us, ookbee joy
-organizze, 703177890, us
+organizze-budget-planner, 677699286, us, organizze budget planner
 paktor, 654972611, us
 pantip, 371321217, us
 piggipo, 739358942, us
@@ -291,12 +288,12 @@ LINE-MOBILE, 1210594482, th, linemobile
 rabbit-reward, 662012375, th, rabbit reward
 Tayasui-Color, 1106374233, us
 authy, 494168017, th
-guides, 306934924, th
+guides-by-lonely-planet, 1045791869, us, guides lonely planet
 airMeasure, 1251282152, th
 namecheap, 482604032, th
 ookbee, 667829467, th
 Ookbee-Comics, 979856509, th, ookbee comics
-fhm, 561919334, th
+fhm, 570966818, us, fhm us
 Jamsai-e-Book, 675505295, th, jamsai ebook
 stamp, 525997217, th, stamp
 Jamsai-e-Book, 675505295, th, jamsai ebook
@@ -316,12 +313,11 @@ Nike, 387771637, th, nike run club
 any-do, 648287824, th, cal any.do
 coffee-club, 1236012239, th, coffee club
 doctor-me, 450125162, th, doctor me
-BeeTalk---Video-the-Moments, 615267996, th, ookbee beetalk
+partido-dating-like-beetalk, 1153371765, us, partido beetalk
 cipher, 1294572970, us
 eventpop, 1044159027, th, eventpop
 Bim-Restaurants-Reservation, 927902886, uk
 SinDelantal-mx, 810725973, mx
-배민찬-배민프레시--의-새-이름, 1069293812, kr
 Memorado-Brain-Training-Games, 897062509, th
 drivebot, 982129939, th
 hip-n-chic, 1021169493, th, hip n chic
@@ -487,13 +483,12 @@ Olli-by-Tinrocket, 1039012834, us
 Quik-GoPro-Video-Editor, 694164275, us
 bubble-Find-a-Babysitter-Now, 1089980698, us
 Peanut-Moms-Meet, 1178656034, us
-7-Minute-Superhero-Workout, 884178077, us
 ArtWalk, 983409972, us
 Dungeon-Runner-Fitness-Quest, 934356795, us
 Fitocracy-Fitness-Collective, 509253726, us
 Standland, 1033409631, us
 Wokamon-Fitness-Game, 686364904, us
-Zombies-Run, 493351848, us
+Zombies-Run, 503519713, us
 8fit-Workouts-meal-planner, 866617777, us
 Asana-Rebel-Yoga-and-Fitness, 1067860796, us
 Fitbit-Coach, 535640259, us
@@ -520,7 +515,7 @@ Too-Good-To-Go, 1214730896, us
 urbi-mobility-and-carsharing, 804024567, us
 Village-Buy-Sell-Locally, 1076959615, us
 Wallapop, 883564246, us
-Airtasker, 1165873948, us
+Airtasker, 512137061, us
 Amazon-Shopping-made-easy, 297606951, us, amazon
 Armut-Hizmet-Piş-Ağzıma-Düş, 1028966163, fr
 Baby-Sittor, 1015021247, fr
@@ -534,6 +529,7 @@ Cornershop, 995060131, us
 Deliveroo, 1001501844, us
 Delivery-Club, 436145623, us
 DogBuddy, 997335175, fr
+dog-buddy-activities-log, 448923379, us, dog buddy
 Evino-Compre-Vinho-Online, 1008719792, us
 Fandango-Latinoamérica, 546444761, us
 GAIA, 821068605, us
@@ -570,10 +566,8 @@ Wish-Shopping-Made-Fun, 530621395, us
 YouDo-работа-курьеры-уборка, 560999571, us
 Zomato-Food-Restaurants, 434613896, us
 Яндекс-Афиша-билеты, 1119361771, us
-셀잇-중고거래-풀서비스, 696689964, us
 와홈, 1048904110, us
 카플랫-집-앞에서-타는-렌트카렌터카, 1166835724, kr
-푸드플라이, 824246101, us
 플레이팅-셰프의-요리를-집에서, 1031812751, us
 Aura-Mindfulness-Meditation, 1114223104, us
 Away-Nature-Sounds-to-Sleep, 1073473120, us
@@ -617,11 +611,9 @@ Bumble-Meet-new-People, 930441707, us
 Peanut-Moms-Meet, 1178656034, us
 Vampr, 1069819177, us
 SweatCity, 990369067, us
-C-CHANNEL-girls-howto-videos, 1021091295, us
 DELISH-KITCHEN-レシピ動画で料理を簡単に, 1177907423, us
 Kurashiru-クラシル-料理レシピ動画数No-1, 1059134258, us
 Tastemade, 971197898, us
-レシピ動画アプリ-mogoo-簡単な料理をレシピ動画で, 1143082599, us
 Runtastic-Results-Workout-App, 1035263816, us
 Seven-7-Minute-Workout, 650276551, us
 Sworkit-Workouts-Plans, 527219710, us
@@ -630,7 +622,6 @@ YAZIO-Calorie-Counter-App, 946099227, us
 微信读书, 952059546, us
 网易蜗牛读书, 1127249355, us
 豆瓣, 471851341, us
-A-Maze-in-Love, 1407700305, us
 AMON, 1241922599, us
 AR-Dragon, 1270046606, us
 AR-MeasureKit, 1258270451, us
@@ -640,7 +631,6 @@ Conduct-AR!, 1256506674, us
 Dronetopolis-AR, 1280548570, us
 Euclidean-Lands, 1181212221, us
 FishingGO, 1262044370, us
-Follow-Me-Dragon, 1276049016, us
 HABA-Little-Friends-Dance, 1218897499, us
 Holo, 1194175772, us
 Housecraft, 1261483849, us
@@ -655,8 +645,7 @@ Memrise-Language-Learning-App, 635966718, us
 Mobly, 987687565, us
 Monster-Park-Dino-World, 1259767702, us
 My-Very-Hungry-Caterpillar-AR, 1277085142, us
-Night-Sky, 1407574629, us
-Paint-Space-AR, 1260267722, us
+Night-Sky, 475772902, us, night sky
 Player-Piano-3D, 771068869, us
 Sky-Guide-AR, 475772902, us
 Splitter-Critters, 1107320261, us
