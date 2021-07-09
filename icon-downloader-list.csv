@@ -1,4 +1,7 @@
 name, id, country code, tag
+my-bmw, 1519034860, us
+Mi-Fit, 938688461, us
+NaturelID, 1476047194, us
 oculus, 1366478176, us
 outlook, 951937596, us
 clubhouse, 1503133294, us
@@ -376,7 +379,6 @@ AliExpress-Shopping-App, 436672029, us, aliexpress
 WhatsApp-Messenger, 310633997, us
 Paper-by-FiftyThree, 506003812, us
 WeChat, 414478124, us
-Mi-Fit, 938688461, us
 KING-POWER, 654671575, us
 OpenTerm, 1323205755, us
 Dataplicity-Terminal-for-Pi, 921634512, us
