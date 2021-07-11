@@ -26,7 +26,9 @@ def find_trackID(app_name, country)
   search_url = "https://itunes.apple.com/search?term=#{CGI.escape(app_name)}&country=#{country}&entity=software"
   uri = URI.parse(search_url)
   response = Net::HTTP.get_response(uri).body
+  puts **********
   response_json = JSON.parse(response)
+  puts **********
 
   sleep(4)
 

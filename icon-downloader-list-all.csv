@@ -1,4 +1,6 @@
 name, id, country code, tag
+blue-card-ptt, 605189030, th, amazon ptt blue card
+any-do, 497328576, us, cal any-do 
 my-bmw, 1519034860, us
 Mi-Fit, 938688461, us
 NaturelID, 1476047194, us
@@ -73,7 +75,6 @@ OmisePay, 1352933189, th
 Evernote, 281796108, us, evernote
 YouTube-Watch-Listen-Stream, 544007664, us, youtube
 Google-Drive, 507874739, us
-Google, 284815942, us
 Snapseed, 439438619, us
 BentoWeb, 887709133, us
 FlowAccount, 993095869, us
@@ -96,7 +97,6 @@ Photo-Lab-Picture-Editor-art, 441457218, us
 Prisma-Photo-Editor-, 1122649984, us
 Sticky-AI, 1234178923, us
 agar-io, 995999703, us
-Arrow-io, 1403225664, us
 Crash-of-Cars, 1171311339, us
 Knight-IO, 1259287889, us
 paper-io, 1171814682, us
@@ -125,7 +125,6 @@ Build-Away-Idle-City-Game, 1356451697, us
 Egg-Inc, 993492744, us
 Flippy-Knife, 1380693561, us
 Gardenscapes, 1105855019, us
-King-Boom, 1380693561, us
 KleptoCats, 1083229791, us
 Tap-Titans-2, 1120294802, us
 Linepay, 575147772, jp
@@ -135,7 +134,6 @@ ais-play, 1060905121, us, ais play
 booking, 647268330, th
 alipay, 333206289, us
 alto, 1263426717, us
-amazon-ptt, 1047593542, th, amazon ptt
 anantara-hotels, 1455199656, us, anantara hotel
 anantara-ar-experience, 1474047633, us, anantara ar experience
 audible, 379693831, us
@@ -146,12 +144,10 @@ behance, 489667151, us
 bitly, 525106063, us
 booking, 367003839, us
 all-thai-taxi, 966440826, us, all thai taxi
-cal-any-do, 648287824, us, cal any-do
 caratlane, 990574630, us
 cdiscount, 1029896837, th
 centara, 626122850, th
 ch7, 425888648, th
-chrome, 535886823, us
 citymapper, 469463298, us
 classdojo, 552602056, us
 coinbase, 886427730, us
@@ -175,7 +171,6 @@ flinto, 972238373, us
 flipkart, 742044692, us
 fooducate, 398436747, us
 foursquare, 306934924, us
-freespeech, 414706506, us
 garmin, 583446403, us
 getlink, 1311350346, us
 github, 707173885, us
@@ -233,7 +228,6 @@ medium, 828256236, us
 mindcraft, 1397262424, us
 mumu, 1099303965, th
 pinterest, 429047995, us
-ookbee, 667829467, th
 ookbee-comic, 667829467, us, ookbee comic
 ookbee-joy, 1250405456, us, ookbee joy
 organizze-budget-planner, 677699286, us, organizze budget planner
@@ -256,8 +250,7 @@ skitch, 490505997, us
 skype, 304878510, us
 slack, 618783545, us
 space-station, 1077416560, us
-spotify, 324684580, us
-truemoney, 663885752, us
+spotify, 324684580, us 
 trueyou, 589399246, us
 thai-smile, 970358445, us, thai smile
 tops, 475976577, us
@@ -272,7 +265,6 @@ triposo, 467053028, us
 uchoose, 1136616669, us
 usaya, 1173408461, us
 udemy, 562413829, us
-wakamon, 686364904, us
 waze, 323229106, us
 weloveshopping, 513207902, us
 weibo, 527106466, us
@@ -285,7 +277,6 @@ Krungsri-Quick-Pay, 563457247, th, krungsri quick pay
 Krungsri-Biz-Mobile, 1057429809, th, krungsri bix mobile
 KTB-netbank, 436753378, th, ktb bank
 Traveloka-Book-Flight-Hotel, 898244857, us, traveloka
-Cheap-flights-airline-ticket, 427916203, us
 HeartWatch-Heart-Activity, 1062745479, us
 tanwalai, 1087664350, th, ookbee tanwalai
 instragram-layout, 967351793, us, instagram layout
@@ -316,7 +307,6 @@ Fixzy-Easy-Home-Maintenance, 947223490, th, fixzy
 FixzyAuto, 1172071927, th, fixzy auto
 Nike, 387771637, th, nike run club
 500-Trend, 860588307, th, 500 trend
-any-do, 648287824, th, cal any.do
 coffee-club, 1236012239, th, coffee club
 doctor-me, 450125162, th, doctor me
 partido-dating-like-beetalk, 1153371765, us, partido beetalk
@@ -471,11 +461,9 @@ Choices-Stories-You-Play, 1071310449, us
 Cliffhanger-Chat-Stories, 1232403626, us
 HOOKED-Chat-Stories, 1214593569, us
 Lure-Read-Chat-Fiction, 1248062869, us
-READIT-Chat-Stories, 1214593569, us
 Serial-Box-Publishing, 988282641, us
 Tap-by-Wattpad, 1182496809, us
 Bloom-Coloring-Book, 1205087916, us
-Lake-Artists’-Coloring-Books, 1183717726, us
 PicsArt-Color-Paint, 1183817887, us
 Prêt-à-Template, 839537579, us
 Boomerang-from-Instagram, 1041596399, us, instagram boomerang
@@ -616,17 +604,11 @@ Bumble-Meet-new-People, 930441707, us
 Peanut-Moms-Meet, 1178656034, us
 Vampr, 1069819177, us
 SweatCity, 990369067, us
-DELISH-KITCHEN-レシピ動画で料理を簡単に, 1177907423, us
-Kurashiru-クラシル-料理レシピ動画数No-1, 1059134258, us
 Tastemade, 971197898, us
 Runtastic-Results-Workout-App, 1035263816, us
 Seven-7-Minute-Workout, 650276551, us
 Sworkit-Workouts-Plans, 527219710, us
 YAZIO-Calorie-Counter-App, 946099227, us
-得到-终身学习用得到, 1259902007, us
-微信读书, 952059546, us
-网易蜗牛读书, 1127249355, us
-豆瓣, 471851341, us
 AMON, 1241922599, us
 AR-Dragon, 1270046606, us
 AR-MeasureKit, 1258270451, us
@@ -652,7 +634,6 @@ Monster-Park-Dino-World, 1259767702, us
 My-Very-Hungry-Caterpillar-AR, 1277085142, us
 Night-Sky, 475772902, us, night sky
 Player-Piano-3D, 771068869, us
-Sky-Guide-AR, 475772902, us
 Splitter-Critters, 1107320261, us
 Tamadog, 1253002321, us
 TapMeasure-AR-utility, 1281766938, us
