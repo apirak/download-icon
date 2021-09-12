@@ -1,4 +1,6 @@
 name, id, country code, tag
+spotify, 324684580, us 
+trueyou, 589399246, us
 discord, 985746746, us
 viu, 1036095179, th
 robinhood, 1526791835, th, scb robinhood
@@ -7,7 +9,7 @@ voila, 1558421405, us
 wongnai, 403745899, th
 blue-card-ptt, 605189030, th, amazon ptt blue card
 any-do, 497328576, us, cal any-do 
-my-bmw, 1519034860, us
+my-bmw, 1519034860, th
 Mi-Fit, 938688461, us
 NaturelID, 1476047194, us
 oculus, 1366478176, us
@@ -236,8 +238,6 @@ skitch, 490505997, us
 skype, 304878510, us
 slack, 618783545, us
 space-station, 1077416560, us
-spotify, 324684580, us 
-trueyou, 589399246, us
 thai-smile, 970358445, us, thai smile
 tops, 475976577, us
 tiny-calendar, 514917848, us, tiny calendar
@@ -245,7 +245,6 @@ timehop, 569077959, us
 swarm, 870161082, us
 strava, 426826309, us
 storylog, 932674646, us
-spotify, 324684580, us
 stripe, 844840340, us
 uchoose, 1136616669, us
 usaya, 1173408461, us
