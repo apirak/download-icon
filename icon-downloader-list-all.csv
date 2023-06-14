@@ -1,4 +1,10 @@
 name, id, country code, tag
+korian-air, 1512918989, us
+mojo, 1434861974, us
+hashnode, 1472412417, us
+aia, 1480183242, th
+domestika, 1444399346, us
+nocnoc, 1593814142, th
 balance, 1361356590, us, meditation sleep balance
 dolfin, 1447478566, th, central dolfin finance wallet
 wind-training, 1549361741, th, wind training
@@ -45,7 +51,7 @@ hyperlapse, 740146917
 allo-canvas, 943284575, us
 netflix, 363590051
 SCB-EASY, 568388474, th, scb
-TMB-Touch, 884079963, th, tmb
+TMB-Touch, 884079963, th, tmb ttb
 K-PLUS, 361170631, th, kbank
 MyMo-By-GSB-Mobile-Banking, 987047466, th, mymo
 Bualuang-mBanking, 660238716, th, bualuang bank
@@ -225,7 +231,6 @@ inoreader, 892355414, us
 instapaper, 288545208, us
 invision, 990700027, us
 JOOX-Music, 914406371, th, joox
-korian-air, 369188136, us
 lalamove, 735701965, th
 lazada, 785385147, us
 lyft, 529379082, us
